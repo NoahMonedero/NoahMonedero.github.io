@@ -357,4 +357,13 @@ article .icon {
   cursor: default;
 }
 
-/* PROJECTS */
+
+/*Projects*/
+#projects {
+  position:relative;
+}
+/*Contact*/
+
+#contact {
+  position: relative;
+}
